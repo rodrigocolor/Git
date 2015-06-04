@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware
+END
+Unit1.pas
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware/Unit1.pas
+END
+Unit1.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware/Unit1.dfm
+END
+manifest.rc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware/manifest.rc
+END
+UACAware.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware/UACAware.dpr
+END
+UAC.manifest
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware/UAC.manifest
+END
+UACServiceTest.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware/UACServiceTest.dpr
+END
+manifest.res
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/UACAware/manifest.res
+END

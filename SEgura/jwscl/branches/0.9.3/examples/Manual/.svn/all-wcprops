@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual
+END
+Mapping.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/Mapping.dpr
+END
+Desktops.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/Desktops.dpr
+END
+CreateRestrictedToken.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/CreateRestrictedToken.dpr
+END
+FileAccessCheck.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/FileAccessCheck.dpr
+END
+ACL.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/ACL.dpr
+END
+AuthCtx2.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/AuthCtx2.dpr
+END
+FileDACL.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/FileDACL.dpr
+END
+AuthCtx3.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/AuthCtx3.dpr
+END
+AuthCtx4.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/AuthCtx4.dpr
+END
+AuthCtx3a.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/AuthCtx3a.dpr
+END
+MachineSid.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/MachineSid.dpr
+END
+SecurityID2.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/SecurityID2.dpr
+END
+Impersonate1.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/Impersonate1.dpr
+END
+SecurityID2a.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/SecurityID2a.dpr
+END
+SecurityID3.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/SecurityID3.dpr
+END
+FileNotify.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/FileNotify.dpr
+END
+FileProtectedACL.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/FileProtectedACL.dpr
+END
+FileAttr.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/FileAttr.dpr
+END
+ACE2.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/ACE2.dpr
+END
+Mapping2.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/Mapping2.dpr
+END
+AuthCtx.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/AuthCtx.dpr
+END
+ACL2.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/ACL2.dpr
+END
+PrimaryTok1.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/PrimaryTok1.dpr
+END
+SecurityID.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/SecurityID.dpr
+END
+CreateProcessAsUser.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/CreateProcessAsUser.dpr
+END
+ACE.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/ACE.dpr
+END
+SecurityDescriptor2.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/SecurityDescriptor2.dpr
+END
+FileInheritance.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Manual/FileInheritance.dpr
+END

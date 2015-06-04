@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/RegistrySecurity
+END
+SetKeySecurity.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/RegistrySecurity/SetKeySecurity.dpr
+END
+RegKeySecurityWithTakeOwnership.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/RegistrySecurity/RegKeySecurityWithTakeOwnership.dpr
+END

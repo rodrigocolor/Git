@@ -1,0 +1,8 @@
+https://msdn.microsoft.com/en-us/library/aa394077(v=vs.85).aspx
+
+wmic
+so
+memcache
+cpu
+
+http://www.devmedia.com.br/revista-msdn-magazine-edicao-23-obtendo-dados-do-hardware-e-so-com-wmi/3768

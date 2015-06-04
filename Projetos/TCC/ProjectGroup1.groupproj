@@ -1,0 +1,36 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{48801C3D-38E1-40A8-8253-B25EE77A8033}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="TCCprj.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="TCCprj">
+        <MSBuild Projects="TCCprj.dproj"/>
+    </Target>
+    <Target Name="TCCprj:Clean">
+        <MSBuild Projects="TCCprj.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="TCCprj:Make">
+        <MSBuild Projects="TCCprj.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="TCCprj"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="TCCprj:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="TCCprj:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

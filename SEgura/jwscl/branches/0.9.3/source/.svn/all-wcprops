@@ -1,0 +1,497 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source
+END
+JwsclProcess.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclProcess.dtx
+END
+JwsclEncryption.pas
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclEncryption.pas
+END
+JwsclAuthCtx.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclAuthCtx.dtx
+END
+JwsclComUtils.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclComUtils.pas
+END
+JwsclImpersonation.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclImpersonation.dtx
+END
+JwsclTypes.pas
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclTypes.pas
+END
+JwsclStrings.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclStrings.dtx
+END
+JwsclCertificates.pas
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclCertificates.pas
+END
+RpcWinsta.pas
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/RpcWinsta.pas
+END
+JwsclConstants.pas
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclConstants.pas
+END
+JwsclStreams.pas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclStreams.pas
+END
+JwsclProcess.pas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclProcess.pas
+END
+JwsclAuthCtx.pas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclAuthCtx.pas
+END
+JwsclPrivileges.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclPrivileges.dtx
+END
+Jwscl.res
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/Jwscl.res
+END
+makechm.bat
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/makechm.bat
+END
+JwsclImpersonation.pas
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclImpersonation.pas
+END
+D5impl.pas
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/D5impl.pas
+END
+JwsclCryptProvider.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclCryptProvider.dtx
+END
+JwsclStrings.pas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclStrings.pas
+END
+JwsclSid.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSid.dtx
+END
+JwsclLsa.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclLsa.dtx
+END
+JwsclAccounts.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclAccounts.dtx
+END
+JwsclWinStations.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclWinStations.dtx
+END
+Jwscl.rc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/Jwscl.rc
+END
+JwsclPathSimulation.pas
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclPathSimulation.pas
+END
+JwsclDesktops.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclDesktops.dtx
+END
+JwsclCredentials.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclCredentials.dtx
+END
+_JwsclTemplate.pas
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/_JwsclTemplate.pas
+END
+JwsclEurekaLogUtils.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclEurekaLogUtils.dtx
+END
+JwsclCryptProvider.pas
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclCryptProvider.pas
+END
+JwsclUtils.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclUtils.dtx
+END
+JwsclTerminalServer.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclTerminalServer.dtx
+END
+JwsclSid.pas
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSid.pas
+END
+JwsclLsa.pas
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclLsa.pas
+END
+JwsclAccounts.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclAccounts.pas
+END
+JwsclWinStations.pas
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclWinStations.pas
+END
+JwsclSecurityDialogs.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecurityDialogs.dtx
+END
+JwsclMain.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclMain.dpr
+END
+JwsclElevation.pas
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclElevation.pas
+END
+JwsclDesktops.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclDesktops.pas
+END
+JwsclCredentials.pas
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclCredentials.pas
+END
+JwsclExceptions.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclExceptions.dtx
+END
+JwsclEurekaLogUtils.pas
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclEurekaLogUtils.pas
+END
+JwsclUtils.pas
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclUtils.pas
+END
+JwsclTerminalServer.pas
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclTerminalServer.pas
+END
+JwsclHelpBlue.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclHelpBlue.css
+END
+makehelp.bat
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/makehelp.bat
+END
+JwsclSecurePrivateObjects.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecurePrivateObjects.dtx
+END
+JwsclMapping.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclMapping.dtx
+END
+JwsclKnownSid.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclKnownSid.dtx
+END
+JwsclPrivileges.PAS
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclPrivileges.PAS
+END
+JwsclSecurityDialogs.pas
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecurityDialogs.pas
+END
+JwsclSecureUserObjects.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecureUserObjects.dtx
+END
+JwsclAcl.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclAcl.dtx
+END
+JwsclSecureObjects.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecureObjects.dtx
+END
+JwsclExceptions.pas
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclExceptions.pas
+END
+JwsclFirewall.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclFirewall.dtx
+END
+Jwscl.rct
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/Jwscl.rct
+END
+JwsclSimpleDescriptor.pas
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSimpleDescriptor.pas
+END
+JwsclDescriptor.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclDescriptor.dtx
+END
+JwsclSecurePrivateObjects.pas
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecurePrivateObjects.pas
+END
+JwsclMapping.pas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclMapping.pas
+END
+JwsclKnownSid.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclKnownSid.pas
+END
+JwsclToken.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclToken.dtx
+END
+JwsclSecureUserObjects.pas
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecureUserObjects.pas
+END
+JwsclAcl.pas
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclAcl.pas
+END
+JwsclSecureObjects.pas
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclSecureObjects.pas
+END
+JwsclVersion.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclVersion.dtx
+END
+JwsclLogging.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclLogging.dtx
+END
+JwsclResource.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclResource.dtx
+END
+JwsclFirewall.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclFirewall.pas
+END
+JwsclEnumerations.pas
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclEnumerations.pas
+END
+JwsclComUtils.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclComUtils.dtx
+END
+JwsclDescriptor.pas
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclDescriptor.pas
+END
+JwsclToken.pas
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclToken.pas
+END
+JwsclTypes.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclTypes.dtx
+END
+JwsclVersion.pas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclVersion.pas
+END
+JwsclLogging.pas
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclLogging.pas
+END
+JwsclResource.pas
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclResource.pas
+END
+JwsclConstants.dtx
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/JwsclConstants.dtx
+END
+source.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/source/source.txt
+END

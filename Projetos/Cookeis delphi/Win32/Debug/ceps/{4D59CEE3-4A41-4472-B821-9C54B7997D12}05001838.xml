@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<webservicecep>
+<resultado_txt>CEP Inválido</resultado_txt>
+<usuario>
+<login></login>
+<nome></nome>
+<email></email>
+<telefone></telefone>
+</usuario>
+<uf></uf>
+<estado></estado>
+<cidade></cidade>
+<bairro></bairro>
+<logradouro></logradouro>
+<unidade></unidade>
+<cpc></cpc>
+<logradouro_curto></logradouro_curto>
+<codigomunicipio></codigomunicipio>
+<iscapital></iscapital>
+</webservicecep>

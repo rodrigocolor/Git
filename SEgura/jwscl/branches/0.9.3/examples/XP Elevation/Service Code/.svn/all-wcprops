@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code
+END
+XPElevationService.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/XPElevationService.dpr
+END
+Service.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/Service.dpr
+END
+ElevationHandler.pas
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/ElevationHandler.pas
+END
+MainUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/MainUnit.pas
+END
+Service.dof
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/Service.dof
+END
+ThreadedPasswords.pas
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/ThreadedPasswords.pas
+END
+MainUnit.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/MainUnit.dfm
+END
+ThreadUnit.pas
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/ThreadUnit.pas
+END
+XPElevationService.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/XPElevationService.dproj
+END
+uLogging.pas
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/uLogging.pas
+END
+HandleRequestThread.pas
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/HandleRequestThread.pas
+END
+Service.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/Service%20Code/Service.cfg
+END

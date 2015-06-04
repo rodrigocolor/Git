@@ -1,0 +1,99 @@
+-I"d:\program files (x86)\embarcadero\studio\15.0\lib\Win32\debug"
+-ID:\DADOS\Documentos\GitHub\TESTE\jcl\jcl\lib\d21\win32\debug
+-ID:\Embarcadero\Componentes\jcl\jcl\lib\d21\win32\debug
+-I"d:\program files (x86)\embarcadero\studio\15.0\lib\Win32\release"
+-ID:\User\Documentos\Embarcadero\Studio\15.0\Imports
+-I"d:\program files (x86)\embarcadero\studio\15.0\Imports"
+-IC:\Users\Public\Documents\Embarcadero\Studio\15.0\Dcp
+-I"d:\program files (x86)\embarcadero\studio\15.0\include"
+-I"D:\Program Files (x86)\FastReports\LibD21"
+-I"D:\Program Files\Raize\CS5\Lib\RS-XE7\Win32"
+-I"C:\Program Files (x86)\madCollection\madBasic\BDS15\win32"
+-I"C:\Program Files (x86)\madCollection\madDisAsm\BDS15\win32"
+-I"C:\Program Files (x86)\madCollection\madExcept\BDS15\win32"
+-I"C:\Program Files (x86)\madCollection\madExcept\..\Plugins\win32"
+-I"C:\Program Files (x86)\madCollection\madRemote\BDS15\win32"
+-I"C:\Program Files (x86)\madCollection\madKernel\BDS15\win32"
+-I"C:\Program Files (x86)\madCollection\madCodeHook\BDS15\win32"
+-I"C:\Program Files (x86)\madCollection\madSecurity\BDS15\win32"
+-I"C:\Program Files (x86)\madCollection\madShell\BDS15\win32"
+-ID:\Embarcadero\Componentes\tpComponent
+-ID:\Embarcadero\Componentes\jcl\jcl\lib\d21\win32
+-ID:\Embarcadero\Componentes\jcl\jcl\source\include
+-ID:\Embarcadero\Componentes\jvcl\jvcl\lib\D21\win32
+-ID:\Embarcadero\Componentes\jvcl\jvcl\common
+-ID:\Embarcadero\Componentes\jvcl\jvcl\Resources
+-I"D:\Program Files (x86)\Embarcadero\Studio\15.0\lib\win32\release"
+-O"d:\program files (x86)\embarcadero\studio\15.0\lib\Win32\release"
+-OD:\User\Documentos\Embarcadero\Studio\15.0\Imports
+-O"d:\program files (x86)\embarcadero\studio\15.0\Imports"
+-OC:\Users\Public\Documents\Embarcadero\Studio\15.0\Dcp
+-O"d:\program files (x86)\embarcadero\studio\15.0\include"
+-O"D:\Program Files (x86)\FastReports\LibD21"
+-O"D:\Program Files\Raize\CS5\Lib\RS-XE7\Win32"
+-O"C:\Program Files (x86)\madCollection\madBasic\BDS15\win32"
+-O"C:\Program Files (x86)\madCollection\madDisAsm\BDS15\win32"
+-O"C:\Program Files (x86)\madCollection\madExcept\BDS15\win32"
+-O"C:\Program Files (x86)\madCollection\madExcept\..\Plugins\win32"
+-O"C:\Program Files (x86)\madCollection\madRemote\BDS15\win32"
+-O"C:\Program Files (x86)\madCollection\madKernel\BDS15\win32"
+-O"C:\Program Files (x86)\madCollection\madCodeHook\BDS15\win32"
+-O"C:\Program Files (x86)\madCollection\madSecurity\BDS15\win32"
+-O"C:\Program Files (x86)\madCollection\madShell\BDS15\win32"
+-OD:\Embarcadero\Componentes\tpComponent
+-OD:\Embarcadero\Componentes\jcl\jcl\lib\d21\win32
+-OD:\Embarcadero\Componentes\jcl\jcl\source\include
+-OD:\Embarcadero\Componentes\jvcl\jvcl\lib\D21\win32
+-OD:\Embarcadero\Componentes\jvcl\jvcl\common
+-OD:\Embarcadero\Componentes\jvcl\jvcl\Resources
+-O"D:\Program Files (x86)\Embarcadero\Studio\15.0\lib\win32\release"
+-R"C:\Users\Rodrigo\git\Projetos\Seguro Projeto\Sistema-Seguro Evano\WinEXE\"
+-R"d:\program files (x86)\embarcadero\studio\15.0\lib\Win32\release"
+-RD:\User\Documentos\Embarcadero\Studio\15.0\Imports
+-R"d:\program files (x86)\embarcadero\studio\15.0\Imports"
+-RC:\Users\Public\Documents\Embarcadero\Studio\15.0\Dcp
+-R"d:\program files (x86)\embarcadero\studio\15.0\include"
+-R"D:\Program Files (x86)\FastReports\LibD21"
+-R"D:\Program Files\Raize\CS5\Lib\RS-XE7\Win32"
+-R"C:\Program Files (x86)\madCollection\madBasic\BDS15\win32"
+-R"C:\Program Files (x86)\madCollection\madDisAsm\BDS15\win32"
+-R"C:\Program Files (x86)\madCollection\madExcept\BDS15\win32"
+-R"C:\Program Files (x86)\madCollection\madExcept\..\Plugins\win32"
+-R"C:\Program Files (x86)\madCollection\madRemote\BDS15\win32"
+-R"C:\Program Files (x86)\madCollection\madKernel\BDS15\win32"
+-R"C:\Program Files (x86)\madCollection\madCodeHook\BDS15\win32"
+-R"C:\Program Files (x86)\madCollection\madSecurity\BDS15\win32"
+-R"C:\Program Files (x86)\madCollection\madShell\BDS15\win32"
+-RD:\Embarcadero\Componentes\tpComponent
+-RD:\Embarcadero\Componentes\jcl\jcl\lib\d21\win32
+-RD:\Embarcadero\Componentes\jcl\jcl\source\include
+-RD:\Embarcadero\Componentes\jvcl\jvcl\lib\D21\win32
+-RD:\Embarcadero\Componentes\jvcl\jvcl\common
+-RD:\Embarcadero\Componentes\jvcl\jvcl\Resources
+-R"D:\Program Files (x86)\Embarcadero\Studio\15.0\lib\win32\release"
+-U"d:\program files (x86)\embarcadero\studio\15.0\lib\Win32\debug"
+-UD:\DADOS\Documentos\GitHub\TESTE\jcl\jcl\lib\d21\win32\debug
+-UD:\Embarcadero\Componentes\jcl\jcl\lib\d21\win32\debug
+-U"d:\program files (x86)\embarcadero\studio\15.0\lib\Win32\release"
+-UD:\User\Documentos\Embarcadero\Studio\15.0\Imports
+-U"d:\program files (x86)\embarcadero\studio\15.0\Imports"
+-UC:\Users\Public\Documents\Embarcadero\Studio\15.0\Dcp
+-U"d:\program files (x86)\embarcadero\studio\15.0\include"
+-U"D:\Program Files (x86)\FastReports\LibD21"
+-U"D:\Program Files\Raize\CS5\Lib\RS-XE7\Win32"
+-U"C:\Program Files (x86)\madCollection\madBasic\BDS15\win32"
+-U"C:\Program Files (x86)\madCollection\madDisAsm\BDS15\win32"
+-U"C:\Program Files (x86)\madCollection\madExcept\BDS15\win32"
+-U"C:\Program Files (x86)\madCollection\madExcept\..\Plugins\win32"
+-U"C:\Program Files (x86)\madCollection\madRemote\BDS15\win32"
+-U"C:\Program Files (x86)\madCollection\madKernel\BDS15\win32"
+-U"C:\Program Files (x86)\madCollection\madCodeHook\BDS15\win32"
+-U"C:\Program Files (x86)\madCollection\madSecurity\BDS15\win32"
+-U"C:\Program Files (x86)\madCollection\madShell\BDS15\win32"
+-UD:\Embarcadero\Componentes\tpComponent
+-UD:\Embarcadero\Componentes\jcl\jcl\lib\d21\win32
+-UD:\Embarcadero\Componentes\jcl\jcl\source\include
+-UD:\Embarcadero\Componentes\jvcl\jvcl\lib\D21\win32
+-UD:\Embarcadero\Componentes\jvcl\jvcl\common
+-UD:\Embarcadero\Componentes\jvcl\jvcl\Resources
+-U"D:\Program Files (x86)\Embarcadero\Studio\15.0\lib\win32\release"

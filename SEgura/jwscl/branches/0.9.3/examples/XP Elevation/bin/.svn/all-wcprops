@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/bin
+END
+stopsv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/bin/stopsv.bat
+END
+installsv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/bin/installsv.bat
+END
+uninstallsv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/bin/uninstallsv.bat
+END
+startsv.bat
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/XP%20Elevation/bin/startsv.bat
+END

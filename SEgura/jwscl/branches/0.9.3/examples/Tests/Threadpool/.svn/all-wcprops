@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool
+END
+UMainForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/UMainForm.pas
+END
+ThreadPool2.dproj
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/ThreadPool2.dproj
+END
+UMainForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/UMainForm.dfm
+END
+ThreadPool.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/ThreadPool.dpr
+END
+ThreadPool2.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/ThreadPool2.dpr
+END
+ThreadPoolForm.pas
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/ThreadPoolForm.pas
+END
+SyncObjsEx.pas
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/SyncObjsEx.pas
+END
+ThreadPoolForm.dfm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/ThreadPoolForm.dfm
+END
+ProcessList.pas
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/ProcessList.pas
+END
+TestPool.dpr
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svnroot/jedi-apilib/!svn/ver/814/jwscl/branches/0.9.3/examples/Tests/Threadpool/TestPool.dpr
+END

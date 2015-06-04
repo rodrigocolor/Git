@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<webservicecep>
+<resultado_txt>sucesso</resultado_txt>
+<usuario>
+<login>bena@jbsoft.com.br</login>
+<nome>JB SOFTWARE LTDA</nome>
+<email>ejb@jbsoft.com.br</email>
+<telefone></telefone>
+</usuario>
+<uf>SP</uf>
+<estado>São Paulo</estado>
+<cidade>São Paulo</cidade>
+<bairro>Brás</bairro>
+<logradouro>Praça Agente Cícero</logradouro>
+<unidade></unidade>
+<cpc></cpc>
+<logradouro_curto>Praça Agente Cícero</logradouro_curto>
+<codigomunicipio>3550308</codigomunicipio>
+<iscapital>1</iscapital>
+</webservicecep>
