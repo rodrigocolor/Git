@@ -1,0 +1,46 @@
+object Formcarne: TFormcarne
+  Left = 0
+  Top = 0
+  Caption = 'Carn'#234
+  ClientHeight = 201
+  ClientWidth = 447
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object memCarne: TMemo
+    Left = 8
+    Top = 8
+    Width = 431
+    Height = 145
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    ParentFont = False
+    TabOrder = 0
+  end
+  object btnSalvar: TBitBtn
+    Left = 176
+    Top = 168
+    Width = 75
+    Height = 25
+    Caption = 'Salvar'
+    Font.Charset = DEFAULT_CHARSET
+    Font.Color = clWindowText
+    Font.Height = -11
+    Font.Name = 'Tahoma'
+    Font.Style = []
+    Kind = bkYes
+    NumGlyphs = 2
+    ParentFont = False
+    TabOrder = 1
+    OnClick = btnSalvarClick
+  end
+end
